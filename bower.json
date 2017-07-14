@@ -1,0 +1,16 @@
+{
+  "name": "new-catalog",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "3.x.x",
+    "angular": "1.5.x",
+    "angular-resource": "1.5.x",
+    "angular-route": "1.5.x",
+    "angular-material": "1.1.0-rc.5",
+    "angular-material-data-table": "0.10.9",
+    "underscore": "*"
+  },
+  "resolutions": {
+    "angular": "1.6.4"
+  }
+}
